@@ -152,12 +152,4 @@ export async function getParkingDataStatic():Promise<ParkingData[]> {
    });
 }
 
-///**
-// * Scan the UCF parking garage webpage and parse the information into something useful.
-// *
-// * @return {Promise<ParkingData[]>}     Parking data for each garage.
-// * @async
-// */
-//module.exports.getParkingData = module.exports.getParkingDataStatic;
-
 
