@@ -3,7 +3,7 @@
 ## Building
 To compile typescript run:
 ```
-   npx tsc --project ./
+npx tsc --project ./
 ```
 
 ## Running
