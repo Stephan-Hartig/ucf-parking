@@ -1,7 +1,10 @@
+# ucf-parking
 
-To compile the typescript run
+## Building
+To compile typescript run:
 ```
-   npx tsc --project ./
+npx tsc --project ./
 ```
-and then run it with node.
 
+## Running
+Run it with node.
