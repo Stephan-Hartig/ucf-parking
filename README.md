@@ -1,5 +1,8 @@
 # ucf-parking
 
+## About
+A tiny API to get the availability information from the [UCF Parking & Transportation webiste](https://secure.parking.ucf.edu/GarageCount/).
+
 ## Building
 To compile typescript run:
 ```
