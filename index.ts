@@ -152,4 +152,3 @@ export async function getParkingDataStatic():Promise<ParkingData[]> {
    });
 }
 
-
